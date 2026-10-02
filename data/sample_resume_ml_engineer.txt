@@ -1,0 +1,32 @@
+Alexei Romanov
+Senior Machine Learning Engineer
+Email: alexei.romanov@example.com | GitHub: github.com/alexei-ml
+
+PROFESSIONAL SUMMARY
+Production-focused Machine Learning Engineer with 4+ years of experience containerizing deep learning models, building automated MLOps pipelines, and deploying low-latency microservices with Kubernetes.
+
+CORE TECHNICAL COMPETENCIES
+• Programming: Python (AsyncIO, PyTest, Typing, OOP, Caching, Profiling)
+• Containerization & Orchestration: Docker (Multi-stage builds), Kubernetes (K8s, Pods, Helm Charts, HPA, Services)
+• MLOps & Lifecycle: MLflow (Tracking & Registry), DVC, Model Monitoring, Concept Drift Detection, Feature Store
+• Deep Learning: PyTorch, TorchScript, Distributed Training, CUDA Optimization, Loss Functions
+• API Development: FastAPI, Pydantic, REST APIs, Asynchronous Endpoints, High-Throughput Serving
+• Automation & CI/CD: GitHub Actions, Automated Testing, Matrix Builds, Continuous Deployment
+• Data Transformation: Feature Engineering, Feature Selection, Data Leakage Prevention, ColumnTransformer
+
+WORK EXPERIENCE
+Senior ML Engineer | CloudScale Systems (2022 - Present)
+• Containerized PyTorch vision and embedding models using multi-stage Docker builds, reducing image size by 65%.
+• Deployed models to production Kubernetes clusters with Horizontal Pod Autoscalers (HPA), sustaining 4,000 req/sec.
+• Built automated GitHub Actions CI/CD workflows executing pytest test suites and publishing Docker images.
+• Implemented continuous model tracking and drift detection using MLflow and Evidently AI.
+• Authored high-performance FastAPI microservices with Pydantic request validation and sub-30ms P99 latency.
+
+PROJECTS
+AI Skill-Gap & Job Readiness Predictor | Python, FastAPI, Sentence-Transformers, Streamlit
+• Built an NLP evaluation engine pairing Sentence-Transformers with keyword matching to assess candidate-job alignment.
+• Architected an asynchronous FastAPI backend with model pre-warming and an interactive Streamlit analytics dashboard.
+• Generated weighted job readiness scores (0-100%) with automated gap detection and personalized 4-week upskilling roadmaps.
+
+EDUCATION
+B.S. in Computer Science | University of Michigan

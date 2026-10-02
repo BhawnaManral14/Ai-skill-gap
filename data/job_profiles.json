@@ -1,0 +1,3197 @@
+{
+  "Data Scientist": {
+    "title": "Data Scientist",
+    "description": "Designs, develops, and deploys predictive statistical and machine learning models to extract actionable insights and solve complex business problems from large datasets.",
+    "skills": {
+      "Python": {
+        "weight": 0.15,
+        "description": "Proficiency in Python programming for data manipulation, algorithmic problem solving, scripting, and scientific computing using standard libraries.",
+        "keywords": [
+          "python",
+          "pandas",
+          "numpy",
+          "scipy",
+          "oop",
+          "pep8",
+          "data structures",
+          "algorithms",
+          "pytest",
+          "asyncio",
+          "virtualenv"
+        ]
+      },
+      "Machine Learning": {
+        "weight": 0.2,
+        "description": "Expertise in designing, training, evaluating, and fine-tuning supervised, unsupervised, and ensemble machine learning models.",
+        "keywords": [
+          "machine learning",
+          "scikit-learn",
+          "sklearn",
+          "regression",
+          "classification",
+          "clustering",
+          "random forest",
+          "xgboost",
+          "lightgbm",
+          "cross-validation",
+          "hyperparameter tuning",
+          "pca",
+          "gradient boosting"
+        ]
+      },
+      "SQL": {
+        "weight": 0.15,
+        "description": "Advanced database querying skills including complex joins, subqueries, common table expressions (CTEs), window functions, and query optimization.",
+        "keywords": [
+          "sql",
+          "postgresql",
+          "mysql",
+          "queries",
+          "joins",
+          "aggregations",
+          "window functions",
+          "stored procedures",
+          "cte",
+          "indexing",
+          "relational database",
+          "schema design"
+        ]
+      },
+      "Statistics": {
+        "weight": 0.15,
+        "description": "Solid understanding of statistical inference, hypothesis testing, probability distributions, A/B experiment design, and sample size determination.",
+        "keywords": [
+          "statistics",
+          "hypothesis testing",
+          "p-value",
+          "a/b testing",
+          "probability",
+          "distributions",
+          "bayesian",
+          "confidence intervals",
+          "anova",
+          "t-test",
+          "experimentation",
+          "sampling"
+        ]
+      },
+      "Deep Learning": {
+        "weight": 0.1,
+        "description": "Building and training deep neural network architectures including convolutional networks, recurrent networks, and transformer models.",
+        "keywords": [
+          "deep learning",
+          "neural networks",
+          "cnn",
+          "rnn",
+          "lstm",
+          "transformers",
+          "pytorch",
+          "tensorflow",
+          "keras",
+          "backpropagation",
+          "loss functions",
+          "gradient descent"
+        ]
+      },
+      "NLP": {
+        "weight": 0.1,
+        "description": "Techniques for natural language processing, text representation, transformer embeddings, tokenization, sentiment analysis, and language modeling.",
+        "keywords": [
+          "nlp",
+          "natural language processing",
+          "bert",
+          "huggingface",
+          "tokenization",
+          "spacy",
+          "nltk",
+          "llm",
+          "large language models",
+          "prompt engineering",
+          "embeddings",
+          "text classification"
+        ]
+      },
+      "Model Deployment": {
+        "weight": 0.08,
+        "description": "Serving machine learning models in production environments via REST APIs, containerization, and cloud inference pipelines.",
+        "keywords": [
+          "model deployment",
+          "fastapi",
+          "flask",
+          "docker",
+          "rest api",
+          "onnx",
+          "triton",
+          "model serving",
+          "aws sagemaker",
+          "cloud deployment",
+          "inference",
+          "endpoint"
+        ]
+      },
+      "Data Visualization": {
+        "weight": 0.07,
+        "description": "Communicating complex analytical findings effectively using interactive charting libraries, reports, and clear visual narratives.",
+        "keywords": [
+          "data visualization",
+          "matplotlib",
+          "seaborn",
+          "plotly",
+          "dashboard",
+          "ggplot",
+          "d3.js",
+          "data storytelling",
+          "charts",
+          "eda reports"
+        ]
+      }
+    }
+  },
+  "Data Analyst": {
+    "title": "Data Analyst",
+    "description": "Transforms raw enterprise data into actionable business intelligence through exploratory data analysis, dashboard creation, metric tracking, and stakeholder reporting.",
+    "skills": {
+      "SQL": {
+        "weight": 0.2,
+        "description": "Writing performant relational queries, extracting data from enterprise warehouses, filtering, aggregating, and merging disparate data sources.",
+        "keywords": [
+          "sql",
+          "postgresql",
+          "mysql",
+          "snowflake",
+          "bigquery",
+          "queries",
+          "joins",
+          "group by",
+          "window functions",
+          "cte",
+          "aggregations"
+        ]
+      },
+      "Excel": {
+        "weight": 0.15,
+        "description": "Advanced spreadsheet capabilities including pivot tables, lookup formulas, data validation, conditional formatting, and financial/business modeling.",
+        "keywords": [
+          "excel",
+          "pivot tables",
+          "vlookup",
+          "xlookup",
+          "index match",
+          "macros",
+          "vba",
+          "spreadsheets",
+          "data modeling",
+          "power query"
+        ]
+      },
+      "Tableau": {
+        "weight": 0.12,
+        "description": "Building dynamic and interactive dashboards, calculating fields, publishing workbooks, and configuring parameters in Tableau.",
+        "keywords": [
+          "tableau",
+          "tableau desktop",
+          "dashboards",
+          "calculated fields",
+          "lod expressions",
+          "workbooks",
+          "data blending",
+          "visual analytics"
+        ]
+      },
+      "PowerBI": {
+        "weight": 0.13,
+        "description": "Creating comprehensive Power BI reports, designing star schemas, authoring DAX expressions, and managing data flows.",
+        "keywords": [
+          "powerbi",
+          "power bi",
+          "dax",
+          "power query",
+          "m code",
+          "data modeling",
+          "reports",
+          "kpi dashboards",
+          "gateways"
+        ]
+      },
+      "Python": {
+        "weight": 0.12,
+        "description": "Utilizing Python for automated data extraction, tabular manipulation, cleaning datasets, and generating quick exploratory visualizations.",
+        "keywords": [
+          "python",
+          "pandas",
+          "numpy",
+          "jupyter",
+          "automation",
+          "data frames",
+          "matplotlib",
+          "seaborn",
+          "scripting"
+        ]
+      },
+      "Data Cleaning": {
+        "weight": 0.1,
+        "description": "Detecting anomalies, handling missing values, standardizing formats, deduplication, and validating data integrity.",
+        "keywords": [
+          "data cleaning",
+          "data wrangling",
+          "data preprocessing",
+          "missing values",
+          "outlier detection",
+          "deduplication",
+          "data hygiene",
+          "imputation"
+        ]
+      },
+      "Business Intelligence": {
+        "weight": 0.1,
+        "description": "Defining business metrics, analyzing KPIs, understanding stakeholder requirements, and translating operational goals into analytical solutions.",
+        "keywords": [
+          "business intelligence",
+          "bi",
+          "kpi",
+          "metrics",
+          "stakeholder reporting",
+          "roi",
+          "churn analysis",
+          "cohort analysis",
+          "funnel analysis"
+        ]
+      },
+      "Exploratory Data Analysis": {
+        "weight": 0.08,
+        "description": "Investigating tabular distributions, identifying correlations, verifying business assumptions, and synthesizing executive summaries.",
+        "keywords": [
+          "exploratory data analysis",
+          "eda",
+          "descriptive statistics",
+          "correlation",
+          "trend analysis",
+          "data profiling",
+          "summary statistics"
+        ]
+      }
+    }
+  },
+  "Machine Learning Engineer": {
+    "title": "Machine Learning Engineer",
+    "description": "Bridges research and production by scaling machine learning models, designing reliable MLOps pipelines, managing containerized infrastructure, and serving low-latency APIs.",
+    "skills": {
+      "Python": {
+        "weight": 0.15,
+        "description": "Production-grade Python programming adhering to design patterns, asynchronous processing, typing, automated testing, and performance optimization.",
+        "keywords": [
+          "python",
+          "oop",
+          "typing",
+          "pytest",
+          "asyncio",
+          "multiprocessing",
+          "profiling",
+          "packaging",
+          "pep8",
+          "logging"
+        ]
+      },
+      "Docker": {
+        "weight": 0.12,
+        "description": "Containerizing machine learning services, building multi-stage Dockerfiles, managing images, and running multi-container applications.",
+        "keywords": [
+          "docker",
+          "dockerfile",
+          "containerization",
+          "containers",
+          "docker-compose",
+          "image optimization",
+          "registry",
+          "microservices"
+        ]
+      },
+      "MLOps": {
+        "weight": 0.18,
+        "description": "Managing machine learning lifecycles, model tracking, experiment registry, model registries, monitoring data drift, and automated retraining.",
+        "keywords": [
+          "mlops",
+          "mlflow",
+          "wandb",
+          "dvc",
+          "model registry",
+          "data drift",
+          "concept drift",
+          "model monitoring",
+          "feast",
+          "evidently",
+          "pipeline orchestration"
+        ]
+      },
+      "PyTorch": {
+        "weight": 0.15,
+        "description": "Developing, training, debugging, and optimizing deep neural networks using PyTorch, custom dataloaders, and distributed training.",
+        "keywords": [
+          "pytorch",
+          "torch",
+          "tensors",
+          "autograd",
+          "nn.module",
+          "cuda",
+          "distributed training",
+          "mixed precision",
+          "torchscript",
+          "lightning"
+        ]
+      },
+      "Kubernetes": {
+        "weight": 0.1,
+        "description": "Orchestrating containerized ML applications in production clusters with Kubernetes, Helm charts, auto-scaling, and ingress controllers.",
+        "keywords": [
+          "kubernetes",
+          "k8s",
+          "pods",
+          "deployments",
+          "services",
+          "helm",
+          "kubeflow",
+          "kserve",
+          "autoscaling",
+          "ingress"
+        ]
+      },
+      "API Development": {
+        "weight": 0.12,
+        "description": "Building high-throughput, low-latency REST and gRPC endpoints for real-time model inference and batch prediction services.",
+        "keywords": [
+          "api development",
+          "fastapi",
+          "rest api",
+          "grpc",
+          "pydantic",
+          "uvicorn",
+          "endpoints",
+          "swagger",
+          "serialization",
+          "rate limiting"
+        ]
+      },
+      "CI/CD": {
+        "weight": 0.08,
+        "description": "Automating testing, linting, packaging, and zero-downtime deployment pipelines for machine learning microservices.",
+        "keywords": [
+          "ci/cd",
+          "github actions",
+          "gitlab ci",
+          "jenkins",
+          "continuous integration",
+          "continuous deployment",
+          "automated testing",
+          "release automation"
+        ]
+      },
+      "Feature Engineering": {
+        "weight": 0.1,
+        "description": "Developing robust data transformation pipelines, handling temporal feature leakage, feature stores, and automated feature extraction.",
+        "keywords": [
+          "feature engineering",
+          "feature store",
+          "feature selection",
+          "one-hot encoding",
+          "scaling",
+          "transformations",
+          "feature extraction",
+          "embeddings"
+        ]
+      }
+    }
+  },
+  "Data Engineer": {
+    "title": "Data Engineer",
+    "description": "Designs, builds, and optimizes scalable data pipelines, data warehouses, and streaming architectures to deliver clean, reliable data across the enterprise.",
+    "skills": {
+      "SQL": {
+        "weight": 0.18,
+        "description": "Advanced database querying, complex aggregations, window functions, schema normalization, and query performance optimization.",
+        "keywords": [
+          "sql",
+          "postgresql",
+          "mysql",
+          "queries",
+          "joins",
+          "window functions",
+          "indexing",
+          "ctes",
+          "query optimization",
+          "stored procedures"
+        ]
+      },
+      "Python": {
+        "weight": 0.15,
+        "description": "Production Python development for ETL scripting, API integration, data transformation, automated data processing, and library building.",
+        "keywords": [
+          "python",
+          "pandas",
+          "numpy",
+          "oop",
+          "pytest",
+          "multiprocessing",
+          "data structures",
+          "algorithms",
+          "pep8",
+          "packaging"
+        ]
+      },
+      "Data Pipelines & ETL": {
+        "weight": 0.15,
+        "description": "Architecting robust batch and real-time ETL/ELT pipelines, handling data transformations, idempotency, data lineage, and schema evolution.",
+        "keywords": [
+          "etl",
+          "elt",
+          "data pipelines",
+          "data ingestion",
+          "data wrangling",
+          "idempotency",
+          "data lineage",
+          "dbt",
+          "data transformation",
+          "batch processing"
+        ]
+      },
+      "Apache Spark": {
+        "weight": 0.15,
+        "description": "Distributed data computation, dataframe transformations, Spark SQL, PySpark, RDD operations, and performance tuning for big data workloads.",
+        "keywords": [
+          "spark",
+          "pyspark",
+          "apache spark",
+          "spark sql",
+          "rdd",
+          "distributed computing",
+          "partitioning",
+          "broadcast joins",
+          "shuffling",
+          "databricks"
+        ]
+      },
+      "Workflow Orchestration": {
+        "weight": 0.1,
+        "description": "Scheduling, monitoring, and authoring directed acyclic graphs (DAGs) for dependable pipeline execution and dependency management.",
+        "keywords": [
+          "airflow",
+          "apache airflow",
+          "dags",
+          "prefect",
+          "dagster",
+          "orchestration",
+          "task scheduling",
+          "operators",
+          "sensors",
+          "backfilling"
+        ]
+      },
+      "Data Warehousing": {
+        "weight": 0.12,
+        "description": "Designing dimensional models, star and snowflake schemas, and managing enterprise cloud data warehouses.",
+        "keywords": [
+          "data warehousing",
+          "snowflake",
+          "bigquery",
+          "redshift",
+          "star schema",
+          "dimensional modeling",
+          "fact tables",
+          "dimension tables",
+          "data lake",
+          "delta lake"
+        ]
+      },
+      "Kafka & Streaming": {
+        "weight": 0.08,
+        "description": "Building event-driven architectures and streaming pipelines using distributed messaging systems.",
+        "keywords": [
+          "kafka",
+          "apache kafka",
+          "producers",
+          "consumers",
+          "event streaming",
+          "pub/sub",
+          "kinesis",
+          "flink",
+          "real-time streaming",
+          "topics"
+        ]
+      },
+      "Cloud Data Platforms": {
+        "weight": 0.07,
+        "description": "Deploying data storage, serverless compute, and pipeline infrastructure on cloud providers.",
+        "keywords": [
+          "aws",
+          "gcp",
+          "azure",
+          "s3",
+          "cloud storage",
+          "iam",
+          "glue",
+          "emr",
+          "serverless",
+          "cloud data pipelines"
+        ]
+      }
+    }
+  },
+  "AI / Generative AI Engineer": {
+    "title": "AI / Generative AI Engineer",
+    "description": "Specializes in developing generative AI applications, designing Retrieval-Augmented Generation (RAG) systems, prompt engineering, agentic workflows, and fine-tuning foundation models.",
+    "skills": {
+      "LLMs & Prompt Engineering": {
+        "weight": 0.18,
+        "description": "Mastery of large language model capabilities, advanced prompt design, few-shot prompting, chain-of-thought, and reasoning architectures.",
+        "keywords": [
+          "llm",
+          "large language models",
+          "prompt engineering",
+          "few-shot",
+          "chain of thought",
+          "system prompts",
+          "gpt-4",
+          "claude",
+          "gemini",
+          "llama",
+          "reasoning"
+        ]
+      },
+      "RAG & Vector Databases": {
+        "weight": 0.16,
+        "description": "Architecting Retrieval-Augmented Generation systems, document chunking, semantic retrieval, re-ranking, and indexing in vector stores.",
+        "keywords": [
+          "rag",
+          "retrieval augmented generation",
+          "vector database",
+          "pinecone",
+          "chroma",
+          "weaviate",
+          "qdrant",
+          "faiss",
+          "chunking",
+          "reranking",
+          "hybrid search",
+          "embeddings"
+        ]
+      },
+      "AI Frameworks & Agents": {
+        "weight": 0.15,
+        "description": "Building multi-agent systems, tool calling, execution graphs, and autonomous workflows using modern agentic frameworks.",
+        "keywords": [
+          "langchain",
+          "llamaindex",
+          "langgraph",
+          "autogen",
+          "crewai",
+          "tool calling",
+          "ai agents",
+          "autonomous agents",
+          "function calling",
+          "workflow orchestration"
+        ]
+      },
+      "Python": {
+        "weight": 0.14,
+        "description": "Advanced Python programming, asynchronous processing, scientific computing, and API integration for AI systems.",
+        "keywords": [
+          "python",
+          "asyncio",
+          "pydantic",
+          "fastapi",
+          "numpy",
+          "pandas",
+          "oop",
+          "typing",
+          "pytest",
+          "concurrency"
+        ]
+      },
+      "Model APIs & Embeddings": {
+        "weight": 0.12,
+        "description": "Integrating foundational model provider APIs, token management, rate limiting, and generating high-dimensional dense/sparse embeddings.",
+        "keywords": [
+          "openai api",
+          "anthropic api",
+          "gemini api",
+          "sentence-transformers",
+          "embeddings",
+          "hugging face",
+          "tokenization",
+          "tiktoken",
+          "cost optimization"
+        ]
+      },
+      "Fine-Tuning & Quantization": {
+        "weight": 0.1,
+        "description": "Adapting foundation models to domain-specific datasets using parameter-efficient fine-tuning and quantization techniques.",
+        "keywords": [
+          "fine-tuning",
+          "peft",
+          "lora",
+          "qlora",
+          "quantization",
+          "bitsandbytes",
+          "gguf",
+          "unsloth",
+          "axolotl",
+          "instruction tuning"
+        ]
+      },
+      "Model Deployment & Serving": {
+        "weight": 0.08,
+        "description": "Serving generative models and inference pipelines with high concurrency, low latency, and containerized deployment.",
+        "keywords": [
+          "vllm",
+          "ollama",
+          "tgi",
+          "triton",
+          "model serving",
+          "docker",
+          "fastapi",
+          "streaming responses",
+          "latency optimization",
+          "gpu inference"
+        ]
+      },
+      "Evaluation & Guardrails": {
+        "weight": 0.07,
+        "description": "Measuring RAG and generation quality (faithfulness, hallucination, answer relevance) and implementing safety guardrails.",
+        "keywords": [
+          "ragas",
+          "trulens",
+          "guardrails",
+          "nemo guardrails",
+          "hallucination detection",
+          "evals",
+          "prompt injection",
+          "toxicity filtering",
+          "model evaluation"
+        ]
+      }
+    }
+  },
+  "Software Engineer": {
+    "title": "Software Engineer",
+    "description": "Designs, writes, tests, and maintains robust, modular, and performant backend services, systems, APIs, and scalable software solutions.",
+    "skills": {
+      "Core Programming": {
+        "weight": 0.18,
+        "description": "Strong proficiency in modern backend languages, object-oriented design, functional programming paradigms, and clean code principles.",
+        "keywords": [
+          "python",
+          "java",
+          "golang",
+          "c++",
+          "c#",
+          "oop",
+          "design patterns",
+          "clean code",
+          "solid principles",
+          "concurrency",
+          "multithreading"
+        ]
+      },
+      "Data Structures & Algorithms": {
+        "weight": 0.15,
+        "description": "Applying optimal data structures, algorithmic complexity analysis (Big-O), search, traversal, sorting, and dynamic programming.",
+        "keywords": [
+          "data structures",
+          "algorithms",
+          "big-o",
+          "time complexity",
+          "arrays",
+          "hash tables",
+          "trees",
+          "graphs",
+          "recursion",
+          "dynamic programming",
+          "sorting"
+        ]
+      },
+      "RESTful APIs & Microservices": {
+        "weight": 0.15,
+        "description": "Designing and implementing RESTful APIs, gRPC services, microservice architectures, and RPC communication standards.",
+        "keywords": [
+          "rest api",
+          "microservices",
+          "fastapi",
+          "spring boot",
+          "express",
+          "grpc",
+          "http",
+          "json",
+          "openapi",
+          "swagger",
+          "api design"
+        ]
+      },
+      "Databases & SQL": {
+        "weight": 0.14,
+        "description": "Relational and NoSQL database modeling, query writing, indexing strategies, transactions (ACID), and ORM usage.",
+        "keywords": [
+          "sql",
+          "postgresql",
+          "mysql",
+          "mongodb",
+          "database design",
+          "indexing",
+          "acid",
+          "orm",
+          "sqlalchemy",
+          "hibernate",
+          "transactions",
+          "migrations"
+        ]
+      },
+      "System Design & Architecture": {
+        "weight": 0.12,
+        "description": "Architecting distributed, scalable, and resilient systems, implementing caching layers, load balancing, and message queues.",
+        "keywords": [
+          "system design",
+          "distributed systems",
+          "caching",
+          "redis",
+          "load balancing",
+          "message queues",
+          "rabbitmq",
+          "scalability",
+          "high availability",
+          "fault tolerance"
+        ]
+      },
+      "Docker & Containers": {
+        "weight": 0.1,
+        "description": "Containerizing applications, writing Dockerfiles, managing multi-container setups, and optimizing image footprints.",
+        "keywords": [
+          "docker",
+          "dockerfile",
+          "containers",
+          "docker-compose",
+          "image optimization",
+          "containerization",
+          "microservices",
+          "registry"
+        ]
+      },
+      "Git & CI/CD": {
+        "weight": 0.08,
+        "description": "Source code management, branching strategies, collaborative code reviews, pull requests, and automated deployment pipelines.",
+        "keywords": [
+          "git",
+          "github",
+          "gitlab",
+          "branching",
+          "merge requests",
+          "pull requests",
+          "ci/cd",
+          "github actions",
+          "automated testing"
+        ]
+      },
+      "Testing & Quality": {
+        "weight": 0.08,
+        "description": "Writing comprehensive automated unit, integration, and regression tests, mocking dependencies, and maintaining high test coverage.",
+        "keywords": [
+          "unit testing",
+          "integration testing",
+          "pytest",
+          "junit",
+          "mocking",
+          "test-driven development",
+          "tdd",
+          "coverage",
+          "debugging"
+        ]
+      }
+    }
+  },
+  "Frontend Developer": {
+    "title": "Frontend Developer",
+    "description": "Specializes in building responsive, intuitive, accessible, and high-performance user interfaces and web applications using modern web technologies.",
+    "skills": {
+      "JavaScript & TypeScript": {
+        "weight": 0.2,
+        "description": "Deep understanding of ES6+, TypeScript type safety, asynchronous programming, event loop, closures, and modern browser APIs.",
+        "keywords": [
+          "javascript",
+          "typescript",
+          "es6",
+          "async/await",
+          "promises",
+          "dom",
+          "types",
+          "interfaces",
+          "generics",
+          "browser apis",
+          "closures"
+        ]
+      },
+      "React & Modern Frameworks": {
+        "weight": 0.2,
+        "description": "Building component-driven applications with React, Next.js, custom hooks, lifecycle management, and virtual DOM rendering.",
+        "keywords": [
+          "react",
+          "react.js",
+          "next.js",
+          "hooks",
+          "jsx",
+          "tsx",
+          "components",
+          "virtual dom",
+          "props",
+          "vue.js",
+          "angular",
+          "client-side rendering"
+        ]
+      },
+      "HTML5 & Modern CSS": {
+        "weight": 0.15,
+        "description": "Semantic markup, modern styling methodologies, Flexbox, CSS Grid, preprocessors, CSS-in-JS, and utility frameworks like Tailwind CSS.",
+        "keywords": [
+          "html5",
+          "css3",
+          "tailwind css",
+          "sass",
+          "flexbox",
+          "css grid",
+          "css modules",
+          "responsive design",
+          "styled-components",
+          "animations"
+        ]
+      },
+      "State Management": {
+        "weight": 0.1,
+        "description": "Managing complex client-side application state, global state patterns, caching, and server state synchronizations.",
+        "keywords": [
+          "redux",
+          "redux toolkit",
+          "zustand",
+          "context api",
+          "tanstack query",
+          "react query",
+          "recoil",
+          "mobx",
+          "state management"
+        ]
+      },
+      "Web Performance & SEO": {
+        "weight": 0.1,
+        "description": "Optimizing web performance, Core Web Vitals (LCP, FID, CLS), code-splitting, lazy loading, asset compression, and SEO best practices.",
+        "keywords": [
+          "web performance",
+          "core web vitals",
+          "lighthouse",
+          "code splitting",
+          "lazy loading",
+          "seo",
+          "bundle optimization",
+          "tree shaking",
+          "caching"
+        ]
+      },
+      "REST & GraphQL Integration": {
+        "weight": 0.1,
+        "description": "Consuming backend APIs, managing HTTP requests, error handling, caching, WebSockets, and GraphQL client integrations.",
+        "keywords": [
+          "rest api",
+          "graphql",
+          "apollo client",
+          "axios",
+          "fetch api",
+          "websockets",
+          "data fetching",
+          "http status codes",
+          "json"
+        ]
+      },
+      "Responsive Design & Accessibility": {
+        "weight": 0.08,
+        "description": "Developing mobile-first layouts, ensuring cross-browser compatibility, and adhering to WCAG accessibility and ARIA standards.",
+        "keywords": [
+          "accessibility",
+          "a11y",
+          "wcag",
+          "aria",
+          "mobile-first",
+          "cross-browser",
+          "screen readers",
+          "media queries",
+          "responsive design"
+        ]
+      },
+      "Testing & Build Tools": {
+        "weight": 0.07,
+        "description": "Automated frontend testing, component testing, end-to-end testing, and configuring modern bundlers and build tools.",
+        "keywords": [
+          "jest",
+          "react testing library",
+          "cypress",
+          "playwright",
+          "vite",
+          "webpack",
+          "npm",
+          "yarn",
+          "eslint",
+          "prettier"
+        ]
+      }
+    }
+  },
+  "Full Stack Developer": {
+    "title": "Full Stack Developer",
+    "description": "Combines frontend UI engineering with backend service architectures, database design, API integrations, and cloud deployment capabilities.",
+    "skills": {
+      "Frontend Frameworks": {
+        "weight": 0.18,
+        "description": "Building interactive single-page and server-rendered web applications using React, Next.js, TypeScript, and modern styling.",
+        "keywords": [
+          "react",
+          "next.js",
+          "typescript",
+          "javascript",
+          "html5",
+          "css3",
+          "tailwind css",
+          "hooks",
+          "responsive ui",
+          "state management"
+        ]
+      },
+      "Backend Development": {
+        "weight": 0.18,
+        "description": "Authoring scalable server-side applications, business logic, asynchronous tasks, and microservices in Node.js, Python, or Go.",
+        "keywords": [
+          "node.js",
+          "express",
+          "python",
+          "fastapi",
+          "django",
+          "backend",
+          "middleware",
+          "async/await",
+          "microservices",
+          "serverless"
+        ]
+      },
+      "Database Management": {
+        "weight": 0.15,
+        "description": "Architecting, querying, and maintaining relational and document databases, schema migrations, and ORM abstractions.",
+        "keywords": [
+          "postgresql",
+          "mysql",
+          "mongodb",
+          "sql",
+          "prisma",
+          "sqlalchemy",
+          "mongoose",
+          "orm",
+          "database schema",
+          "indexing",
+          "redis"
+        ]
+      },
+      "API Design & Integration": {
+        "weight": 0.12,
+        "description": "Designing RESTful and GraphQL APIs, managing client-server contracts, webhooks, and third-party API integrations.",
+        "keywords": [
+          "rest api",
+          "graphql",
+          "api integration",
+          "crud",
+          "webhooks",
+          "json",
+          "postman",
+          "swagger",
+          "openapi",
+          "endpoints"
+        ]
+      },
+      "Cloud & Docker": {
+        "weight": 0.12,
+        "description": "Containerizing full stack solutions, managing environments, deploying to cloud services, and managing cloud storage.",
+        "keywords": [
+          "docker",
+          "docker-compose",
+          "aws",
+          "gcp",
+          "vercel",
+          "cloud deployment",
+          "s3",
+          "ec2",
+          "containers",
+          "serverless deployment"
+        ]
+      },
+      "Authentication & Web Security": {
+        "weight": 0.09,
+        "description": "Implementing secure user authentication, token-based authorization, CORS policies, password hashing, and role-based access control.",
+        "keywords": [
+          "authentication",
+          "authorization",
+          "jwt",
+          "oauth",
+          "bcrypt",
+          "rbac",
+          "cors",
+          "csrf",
+          "xss prevention",
+          "session management"
+        ]
+      },
+      "Version Control & CI/CD": {
+        "weight": 0.08,
+        "description": "Collaborative version control, branching strategies, automated builds, continuous integration, and seamless deployment pipelines.",
+        "keywords": [
+          "git",
+          "github",
+          "gitlab",
+          "ci/cd",
+          "github actions",
+          "automated deployment",
+          "pull requests",
+          "merge strategies"
+        ]
+      },
+      "Testing & Debugging": {
+        "weight": 0.08,
+        "description": "Testing across the stack including unit tests, API endpoint tests, integration verification, and structured application logging.",
+        "keywords": [
+          "jest",
+          "pytest",
+          "supertest",
+          "unit testing",
+          "integration testing",
+          "e2e testing",
+          "debugging",
+          "logging",
+          "postman"
+        ]
+      }
+    }
+  },
+  "DevOps & Cloud Engineer": {
+    "title": "DevOps & Cloud Engineer",
+    "description": "Automates software delivery, builds scalable cloud infrastructure, manages Kubernetes clusters, and implements robust observability and security practices.",
+    "skills": {
+      "Cloud Infrastructure": {
+        "weight": 0.18,
+        "description": "Architecting and managing cloud resources, VPC networking, compute instances, IAM policies, and cloud-native services.",
+        "keywords": [
+          "aws",
+          "gcp",
+          "azure",
+          "ec2",
+          "s3",
+          "vpc",
+          "iam",
+          "cloud architecture",
+          "route53",
+          "cloudwatch",
+          "lambda"
+        ]
+      },
+      "Infrastructure as Code": {
+        "weight": 0.16,
+        "description": "Automating infrastructure provisioning and configuration management using declarative tools and state management.",
+        "keywords": [
+          "terraform",
+          "cloudformation",
+          "ansible",
+          "iac",
+          "infrastructure as code",
+          "terraform state",
+          "modules",
+          "hcl",
+          "pulumi"
+        ]
+      },
+      "Kubernetes & Containers": {
+        "weight": 0.16,
+        "description": "Container orchestration, Helm charting, cluster scaling, service discovery, ingress management, and Docker optimization.",
+        "keywords": [
+          "kubernetes",
+          "k8s",
+          "docker",
+          "helm",
+          "pods",
+          "deployments",
+          "services",
+          "ingress",
+          "cluster management",
+          "containerization",
+          "kubectl"
+        ]
+      },
+      "CI/CD Automation": {
+        "weight": 0.14,
+        "description": "Building and maintaining automated continuous integration and continuous deployment pipelines for reliable releases.",
+        "keywords": [
+          "ci/cd",
+          "github actions",
+          "gitlab ci",
+          "jenkins",
+          "argocd",
+          "continuous integration",
+          "continuous deployment",
+          "pipelines",
+          "release automation"
+        ]
+      },
+      "Linux & Shell Scripting": {
+        "weight": 0.12,
+        "description": "Linux systems administration, systemd service management, networking diagnostics, user permissions, and Bash automation.",
+        "keywords": [
+          "linux",
+          "bash",
+          "shell scripting",
+          "ubuntu",
+          "systemd",
+          "ssh",
+          "networking",
+          "cron",
+          "process management",
+          "sysadmin"
+        ]
+      },
+      "Monitoring & Observability": {
+        "weight": 0.1,
+        "description": "Setting up real-time metric collection, distributed tracing, log aggregation, and proactive incident alerting.",
+        "keywords": [
+          "prometheus",
+          "grafana",
+          "elk stack",
+          "datadog",
+          "observability",
+          "metrics",
+          "alerting",
+          "opentelemetry",
+          "cloudwatch",
+          "logs"
+        ]
+      },
+      "Cloud Security & Networking": {
+        "weight": 0.08,
+        "description": "Enforcing cloud security postures, managing secrets, TLS/SSL certificates, firewall rules, and zero-trust policies.",
+        "keywords": [
+          "cloud security",
+          "secrets manager",
+          "vault",
+          "tls/ssl",
+          "firewalls",
+          "zero trust",
+          "security groups",
+          "compliance",
+          "encryption"
+        ]
+      },
+      "Site Reliability Engineering": {
+        "weight": 0.06,
+        "description": "Defining service level objectives (SLOs/SLAs), error budgets, disaster recovery protocols, and post-incident reviews.",
+        "keywords": [
+          "sre",
+          "sla",
+          "slo",
+          "error budget",
+          "high availability",
+          "disaster recovery",
+          "incident management",
+          "chaos engineering"
+        ]
+      }
+    }
+  },
+  "Cybersecurity Analyst": {
+    "title": "Cybersecurity Analyst",
+    "description": "Defends organizational infrastructure against cyber threats, conducts vulnerability assessments, investigates security incidents, and enforces compliance.",
+    "skills": {
+      "Network & System Security": {
+        "weight": 0.18,
+        "description": "Securing network topologies, firewalls, intrusion detection/prevention systems (IDS/IPS), VPNs, and endpoint protection.",
+        "keywords": [
+          "network security",
+          "firewalls",
+          "ids/ips",
+          "vpn",
+          "tcp/ip",
+          "dns security",
+          "endpoint protection",
+          "wireshark",
+          "packet analysis"
+        ]
+      },
+      "SIEM & Threat Detection": {
+        "weight": 0.16,
+        "description": "Collecting, parsing, and analyzing security logs using SIEM platforms to identify active threats and suspicious anomalies.",
+        "keywords": [
+          "siem",
+          "splunk",
+          "microsoft sentinel",
+          "qradar",
+          "log analysis",
+          "threat detection",
+          "soc",
+          "mitre att&ck",
+          "threat intelligence",
+          "soc analyst"
+        ]
+      },
+      "Vulnerability Assessment": {
+        "weight": 0.15,
+        "description": "Performing vulnerability scans, assessing system weaknesses, penetration testing basics, and validating remediations against OWASP.",
+        "keywords": [
+          "vulnerability assessment",
+          "nessus",
+          "qualys",
+          "penetration testing",
+          "owasp top 10",
+          "cve",
+          "vulnerability scanning",
+          "remediation",
+          "burp suite"
+        ]
+      },
+      "Incident Response & Forensics": {
+        "weight": 0.14,
+        "description": "Triage, containment, eradication, and post-incident investigation of security breaches and digital forensics analysis.",
+        "keywords": [
+          "incident response",
+          "digital forensics",
+          "containment",
+          "root cause analysis",
+          "malware analysis",
+          "ioc",
+          "indicators of compromise",
+          "incident handling"
+        ]
+      },
+      "Security Compliance & Governance": {
+        "weight": 0.12,
+        "description": "Aligning enterprise operations with international cybersecurity standards, risk frameworks, and regulatory requirements.",
+        "keywords": [
+          "compliance",
+          "nist",
+          "iso 27001",
+          "soc 2",
+          "gdpr",
+          "hipaa",
+          "risk management",
+          "security audit",
+          "security governance"
+        ]
+      },
+      "Identity & Access Management": {
+        "weight": 0.1,
+        "description": "Configuring access controls, directory services, multi-factor authentication, single sign-on, and least privilege enforcement.",
+        "keywords": [
+          "iam",
+          "active directory",
+          "mfa",
+          "sso",
+          "rbac",
+          "least privilege",
+          "okta",
+          "identity management",
+          "access control"
+        ]
+      },
+      "Cloud Security": {
+        "weight": 0.08,
+        "description": "Assessing and securing cloud architectures (AWS/Azure), cloud security posture management (CSPM), and identity federation.",
+        "keywords": [
+          "cloud security",
+          "aws security",
+          "azure security",
+          "cspm",
+          "cloud guard",
+          "iam policies",
+          "s3 bucket security",
+          "kms"
+        ]
+      },
+      "Cryptography & Secure Protocols": {
+        "weight": 0.07,
+        "description": "Understanding symmetric and asymmetric encryption algorithms, hashing, TLS certificates, and Public Key Infrastructure (PKI).",
+        "keywords": [
+          "cryptography",
+          "encryption",
+          "aes",
+          "rsa",
+          "tls",
+          "pki",
+          "certificates",
+          "hashing",
+          "sha-256",
+          "digital signatures"
+        ]
+      }
+    }
+  },
+  "Product Manager (Technical)": {
+    "title": "Product Manager (Technical)",
+    "description": "Drives product vision, translates complex technical architectures into customer-centric features, prioritizes roadmaps, and aligns cross-functional teams.",
+    "skills": {
+      "Product Strategy & Roadmapping": {
+        "weight": 0.2,
+        "description": "Defining product vision, long-term roadmaps, OKRs, value propositions, and aligning strategy with corporate objectives.",
+        "keywords": [
+          "product strategy",
+          "product roadmap",
+          "okrs",
+          "product vision",
+          "go-to-market",
+          "gtm",
+          "product lifecycle",
+          "competitive analysis",
+          "market research"
+        ]
+      },
+      "Feature Prioritization & PRDs": {
+        "weight": 0.16,
+        "description": "Writing clear Product Requirement Documents (PRDs), user stories, acceptance criteria, and prioritizing features using frameworks.",
+        "keywords": [
+          "prd",
+          "product requirements",
+          "user stories",
+          "acceptance criteria",
+          "rice framework",
+          "moscow",
+          "feature prioritization",
+          "specifications",
+          "backlog"
+        ]
+      },
+      "Data Analytics & Metrics": {
+        "weight": 0.15,
+        "description": "Tracking product KPIs, analyzing user retention, funnels, cohort behavior, and driving decisions through data insights.",
+        "keywords": [
+          "product analytics",
+          "kpis",
+          "sql",
+          "cohort analysis",
+          "funnel analysis",
+          "google analytics",
+          "mixpanel",
+          "amplitude",
+          "churn rate",
+          "retention"
+        ]
+      },
+      "Agile & Scrum Delivery": {
+        "weight": 0.14,
+        "description": "Leading agile rituals, sprint planning, backlog grooming, retrospective sessions, and cross-functional sprint execution in Jira.",
+        "keywords": [
+          "agile",
+          "scrum",
+          "sprint planning",
+          "backlog grooming",
+          "jira",
+          "kanban",
+          "sprint retrospective",
+          "standup",
+          "velocity"
+        ]
+      },
+      "User Experience & Customer Research": {
+        "weight": 0.12,
+        "description": "Conducting customer discovery interviews, usability testing, journey mapping, and collaborating on UI/UX wireframes.",
+        "keywords": [
+          "user research",
+          "customer discovery",
+          "wireframing",
+          "figma",
+          "usability testing",
+          "user journey",
+          "personas",
+          "ux design",
+          "prototype"
+        ]
+      },
+      "A/B Testing & Experimentation": {
+        "weight": 0.1,
+        "description": "Designing quantitative A/B experiments, formulating testable hypotheses, determining sample sizes, and evaluating statistical significance.",
+        "keywords": [
+          "a/b testing",
+          "experimentation",
+          "hypothesis testing",
+          "split testing",
+          "sample size",
+          "statistical significance",
+          "conversion rate",
+          "cro"
+        ]
+      },
+      "Stakeholder Management": {
+        "weight": 0.08,
+        "description": "Influencing cross-functional teams, managing executive expectations, resolving dependency conflicts, and driving alignment.",
+        "keywords": [
+          "stakeholder management",
+          "cross-functional leadership",
+          "executive communication",
+          "alignment",
+          "negotiation",
+          "collaboration"
+        ]
+      },
+      "Technical Acumen": {
+        "weight": 0.05,
+        "description": "Understanding system architecture, APIs, data flows, and technical tradeoffs to communicate effectively with engineering teams.",
+        "keywords": [
+          "technical acumen",
+          "system architecture",
+          "apis",
+          "technical tradeoffs",
+          "engineering collaboration",
+          "data flow",
+          "scalability"
+        ]
+      }
+    }
+  },
+  "MERN Stack Developer": {
+    "title": "MERN Stack Developer",
+    "description": "Specializes in building full-stack web applications using the MERN stack: MongoDB, Express.js, React.js, and Node.js, along with JavaScript/TypeScript, RESTful APIs, and modern state management.",
+    "skills": {
+      "React.js & Frontend": {
+        "weight": 0.2,
+        "description": "Building dynamic, component-driven user interfaces in React.js, hooks (useState, useEffect, custom hooks), JSX, and virtual DOM.",
+        "keywords": [
+          "react",
+          "react.js",
+          "hooks",
+          "jsx",
+          "components",
+          "virtual dom",
+          "props",
+          "lifecycle",
+          "react router",
+          "spa",
+          "custom hooks"
+        ]
+      },
+      "MongoDB & NoSQL": {
+        "weight": 0.18,
+        "description": "Designing NoSQL document schemas, Mongoose ODM modeling, indexing, aggregation pipelines, and data consistency.",
+        "keywords": [
+          "mongodb",
+          "mongoose",
+          "nosql",
+          "aggregation pipeline",
+          "documents",
+          "collections",
+          "indexing",
+          "bson",
+          "atlas",
+          "schema design",
+          "crud"
+        ]
+      },
+      "Node.js Runtime": {
+        "weight": 0.16,
+        "description": "Server-side JavaScript runtime execution, event-driven architecture, event loop, asynchronous I/O, npm package ecosystem, and file system modules.",
+        "keywords": [
+          "node.js",
+          "nodejs",
+          "event loop",
+          "async/await",
+          "promises",
+          "npm",
+          "commonjs",
+          "es modules",
+          "streams",
+          "buffer",
+          "eventemitter"
+        ]
+      },
+      "Express.js & REST APIs": {
+        "weight": 0.16,
+        "description": "Building robust backend REST APIs using Express.js, router architecture, middleware creation, error handling, and request validation.",
+        "keywords": [
+          "express",
+          "express.js",
+          "rest api",
+          "middleware",
+          "routing",
+          "cors",
+          "body-parser",
+          "error handling",
+          "status codes",
+          "endpoints"
+        ]
+      },
+      "State Management (Redux/Zustand)": {
+        "weight": 0.1,
+        "description": "Handling global application state and asynchronous data synchronization in React apps using Redux Toolkit, Context API, or Zustand.",
+        "keywords": [
+          "redux",
+          "redux toolkit",
+          "context api",
+          "zustand",
+          "thunks",
+          "dispatch",
+          "actions",
+          "reducers",
+          "global state",
+          "tanstack query"
+        ]
+      },
+      "Authentication & Web Security": {
+        "weight": 0.1,
+        "description": "Implementing secure authentication mechanisms, JWT tokens, bcrypt password hashing, HTTP-only cookies, CORS, and role-based authorization.",
+        "keywords": [
+          "jwt",
+          "token",
+          "bcrypt",
+          "authentication",
+          "authorization",
+          "cookies",
+          "passport.js",
+          "cors",
+          "helmet",
+          "security",
+          "xss",
+          "csrf"
+        ]
+      },
+      "JavaScript (ES6+) & TypeScript": {
+        "weight": 0.05,
+        "description": "Fluency in modern ES6+ JavaScript and TypeScript type safety across both frontend and backend codebases.",
+        "keywords": [
+          "javascript",
+          "typescript",
+          "es6",
+          "destructuring",
+          "arrow functions",
+          "interfaces",
+          "generics",
+          "types",
+          "modular code"
+        ]
+      },
+      "Deployment & Git": {
+        "weight": 0.05,
+        "description": "Managing source code with Git, deploying MERN applications to cloud platforms (Vercel, Render, Heroku, AWS), and environment management.",
+        "keywords": [
+          "git",
+          "github",
+          "render",
+          "vercel",
+          "heroku",
+          "aws",
+          "pm2",
+          "deployment",
+          "env variables",
+          "ci/cd"
+        ]
+      }
+    }
+  },
+  "Java Full Stack Developer": {
+    "title": "Java Full Stack Developer",
+    "description": "Develops enterprise-grade full stack applications using Java, Spring Boot microservices, relational databases, and modern frontend frameworks like React or Angular.",
+    "skills": {
+      "Java & Core Programming": {
+        "weight": 0.18,
+        "description": "Strong mastery of core Java, OOP, collections framework, concurrency, multithreading, memory management, and stream APIs.",
+        "keywords": [
+          "java",
+          "core java",
+          "oop",
+          "collections",
+          "multithreading",
+          "concurrency",
+          "streams",
+          "lambdas",
+          "jvm",
+          "design patterns"
+        ]
+      },
+      "Spring Boot & Microservices": {
+        "weight": 0.18,
+        "description": "Building microservices using Spring Boot, Spring MVC, dependency injection, Spring Security, actuator, and service discovery.",
+        "keywords": [
+          "spring boot",
+          "spring",
+          "microservices",
+          "spring security",
+          "dependency injection",
+          "spring cloud",
+          "eureka",
+          "actuator",
+          "feign"
+        ]
+      },
+      "Relational Databases & SQL": {
+        "weight": 0.15,
+        "description": "Relational schema design, complex SQL joins, indexing, transaction management, and query tuning in PostgreSQL, MySQL, or Oracle.",
+        "keywords": [
+          "sql",
+          "postgresql",
+          "mysql",
+          "oracle",
+          "database design",
+          "joins",
+          "indexing",
+          "stored procedures",
+          "acid",
+          "query optimization"
+        ]
+      },
+      "Hibernate & JPA": {
+        "weight": 0.12,
+        "description": "Object-relational mapping with Hibernate and JPA, entity relationships, lazy vs eager fetching, caching, and JPQL queries.",
+        "keywords": [
+          "hibernate",
+          "jpa",
+          "orm",
+          "jpql",
+          "entity",
+          "caching",
+          "relationships",
+          "spring data jpa",
+          "repositories"
+        ]
+      },
+      "Frontend Frameworks (React/Angular)": {
+        "weight": 0.15,
+        "description": "Developing interactive web client applications using React, Angular, TypeScript, HTML5, and responsive styling.",
+        "keywords": [
+          "react",
+          "angular",
+          "typescript",
+          "javascript",
+          "html5",
+          "css3",
+          "components",
+          "rxjs",
+          "routing",
+          "responsive design"
+        ]
+      },
+      "RESTful APIs & Web Services": {
+        "weight": 0.1,
+        "description": "Designing RESTful contracts, JSON serialization, status codes, OpenAPI/Swagger documentation, and API security.",
+        "keywords": [
+          "rest api",
+          "swagger",
+          "openapi",
+          "json",
+          "restful web services",
+          "postman",
+          "endpoints",
+          "http status codes"
+        ]
+      },
+      "Build Tools & Git (Maven/Gradle)": {
+        "weight": 0.06,
+        "description": "Dependency management with Maven or Gradle, automated build lifecycles, version control with Git, and pull requests.",
+        "keywords": [
+          "maven",
+          "gradle",
+          "git",
+          "github",
+          "build tools",
+          "dependencies",
+          "pom.xml",
+          "version control",
+          "pull requests"
+        ]
+      },
+      "Docker & Cloud Deployment": {
+        "weight": 0.06,
+        "description": "Containerizing Spring Boot applications, multi-stage Docker builds, and deploying to cloud infrastructure (AWS/Azure).",
+        "keywords": [
+          "docker",
+          "dockerfile",
+          "containers",
+          "aws",
+          "azure",
+          "cloud deployment",
+          "ci/cd",
+          "kubernetes basics"
+        ]
+      }
+    }
+  },
+  "Python / Django Developer": {
+    "title": "Python / Django Developer",
+    "description": "Builds robust, high-performance web applications and RESTful APIs using Python, Django, Django REST Framework, relational databases, and asynchronous task queues.",
+    "skills": {
+      "Python & OOP": {
+        "weight": 0.2,
+        "description": "Deep Python fluency, object-oriented architecture, functional programming patterns, clean code (PEP8), generators, and decorators.",
+        "keywords": [
+          "python",
+          "oop",
+          "pep8",
+          "decorators",
+          "generators",
+          "data structures",
+          "algorithms",
+          "typing",
+          "virtualenv",
+          "clean code"
+        ]
+      },
+      "Django & Django REST Framework": {
+        "weight": 0.2,
+        "description": "Architecting Django applications, MVT architecture, Django REST Framework (DRF) serializers, viewsets, routers, and permissions.",
+        "keywords": [
+          "django",
+          "drf",
+          "django rest framework",
+          "serializers",
+          "viewsets",
+          "django orm",
+          "views",
+          "middleware",
+          "urls",
+          "authentication"
+        ]
+      },
+      "PostgreSQL & Database Design": {
+        "weight": 0.15,
+        "description": "Designing relational database schemas, foreign keys, constraints, indexing, and optimizing queries in PostgreSQL.",
+        "keywords": [
+          "postgresql",
+          "postgres",
+          "sql",
+          "database design",
+          "indexing",
+          "foreign keys",
+          "constraints",
+          "queries",
+          "joins"
+        ]
+      },
+      "ORM & Query Optimization": {
+        "weight": 0.12,
+        "description": "Mastering Django ORM queries, avoiding N+1 queries with select_related and prefetch_related, database migrations, and aggregations.",
+        "keywords": [
+          "django orm",
+          "select_related",
+          "prefetch_related",
+          "migrations",
+          "aggregations",
+          "query optimization",
+          "q objects",
+          "f expressions"
+        ]
+      },
+      "Asynchronous Tasks (Celery & Redis)": {
+        "weight": 0.12,
+        "description": "Configuring distributed task queues, periodic background workers, scheduling cron jobs, and caching using Celery and Redis.",
+        "keywords": [
+          "celery",
+          "redis",
+          "background tasks",
+          "message broker",
+          "caching",
+          "task queue",
+          "periodic tasks",
+          "asynchronous workers"
+        ]
+      },
+      "API Design & Authentication": {
+        "weight": 0.1,
+        "description": "Developing RESTful APIs, JWT/Token authentication, OAuth2 integrations, CORS handling, and Swagger documentation.",
+        "keywords": [
+          "rest api",
+          "jwt",
+          "authentication",
+          "cors",
+          "swagger",
+          "openapi",
+          "permissions",
+          "throttling",
+          "postman"
+        ]
+      },
+      "Docker & Deployment": {
+        "weight": 0.06,
+        "description": "Dockerizing Django applications, configuring Gunicorn and Nginx reverse proxies, and deploying to cloud infrastructure.",
+        "keywords": [
+          "docker",
+          "docker-compose",
+          "gunicorn",
+          "nginx",
+          "deployment",
+          "aws",
+          "digitalocean",
+          "linux"
+        ]
+      },
+      "Testing with PyTest": {
+        "weight": 0.05,
+        "description": "Writing automated unit, integration, and API tests using PyTest and Django TestCase, fixtures, and mock assertions.",
+        "keywords": [
+          "pytest",
+          "django test",
+          "unit testing",
+          "fixtures",
+          "mocking",
+          "test coverage",
+          "integration testing"
+        ]
+      }
+    }
+  },
+  ".NET / C# Developer": {
+    "title": ".NET / C# Developer",
+    "description": "Designs, writes, and deploys high-throughput enterprise applications and APIs using C#, .NET Core, ASP.NET Core, Entity Framework, and Microsoft Azure.",
+    "skills": {
+      "C# & .NET Core": {
+        "weight": 0.2,
+        "description": "Strong proficiency in modern C#, .NET Core runtime, OOP, asynchronous programming (async/await), generics, and LINQ.",
+        "keywords": [
+          "c#",
+          ".net",
+          ".net core",
+          "csharp",
+          "linq",
+          "async/await",
+          "generics",
+          "oop",
+          "clr",
+          "delegates",
+          "interfaces"
+        ]
+      },
+      "ASP.NET Core Web APIs": {
+        "weight": 0.18,
+        "description": "Building high-performance RESTful APIs with ASP.NET Core, dependency injection, middleware pipelines, routing, and filters.",
+        "keywords": [
+          "asp.net core",
+          "asp.net",
+          "web api",
+          "dependency injection",
+          "middleware",
+          "controllers",
+          "routing",
+          "swagger",
+          "action filters"
+        ]
+      },
+      "Entity Framework Core & LINQ": {
+        "weight": 0.16,
+        "description": "Object-relational mapping using EF Core, Code-First migrations, DbContext configuration, lazy vs eager loading, and complex LINQ queries.",
+        "keywords": [
+          "entity framework",
+          "ef core",
+          "linq",
+          "dbcontext",
+          "code-first",
+          "migrations",
+          "eager loading",
+          "lazy loading",
+          "orm"
+        ]
+      },
+      "SQL Server & Database Design": {
+        "weight": 0.15,
+        "description": "Designing relational schemas, writing stored procedures, query optimization, indexing, and transactions in Microsoft SQL Server (T-SQL).",
+        "keywords": [
+          "sql server",
+          "t-sql",
+          "stored procedures",
+          "indexing",
+          "database design",
+          "transactions",
+          "views",
+          "query optimization"
+        ]
+      },
+      "Microservices & Architecture": {
+        "weight": 0.12,
+        "description": "Designing clean architecture, repository patterns, microservices communication, message brokers (RabbitMQ/Azure Service Bus).",
+        "keywords": [
+          "clean architecture",
+          "microservices",
+          "repository pattern",
+          "rabbitmq",
+          "service bus",
+          "event-driven",
+          "cqrs",
+          "mediatr"
+        ]
+      },
+      "Azure Cloud & Deployment": {
+        "weight": 0.08,
+        "description": "Deploying .NET services to Microsoft Azure, Azure App Services, Azure Functions, Blob Storage, and Key Vault.",
+        "keywords": [
+          "azure",
+          "azure app services",
+          "azure functions",
+          "blob storage",
+          "key vault",
+          "cloud deployment",
+          "azure devops"
+        ]
+      },
+      "Unit Testing & Mocking": {
+        "weight": 0.06,
+        "description": "Automated unit and integration testing using xUnit or NUnit, Moq for mocking, and test-driven development.",
+        "keywords": [
+          "xunit",
+          "nunit",
+          "moq",
+          "unit testing",
+          "tdd",
+          "mocking",
+          "integration testing"
+        ]
+      },
+      "Git & CI/CD": {
+        "weight": 0.05,
+        "description": "Version control with Git and building automated continuous integration pipelines with Azure DevOps or GitHub Actions.",
+        "keywords": [
+          "git",
+          "github",
+          "azure devops",
+          "ci/cd",
+          "pipelines",
+          "build automation",
+          "pull requests"
+        ]
+      }
+    }
+  },
+  "Mobile App Developer": {
+    "title": "Mobile App Developer",
+    "description": "Builds high-performance, cross-platform mobile applications for iOS and Android using modern frameworks like Flutter and React Native.",
+    "skills": {
+      "Flutter & Dart": {
+        "weight": 0.2,
+        "description": "Developing cross-platform mobile applications using Flutter framework, Dart language, widget trees, custom painters, and animations.",
+        "keywords": [
+          "flutter",
+          "dart",
+          "widgets",
+          "statefulwidget",
+          "statelesswidget",
+          "animations",
+          "custom painter",
+          "flutter sdk"
+        ]
+      },
+      "React Native & JavaScript": {
+        "weight": 0.18,
+        "description": "Building native mobile apps using React Native, TypeScript, JSX, native bridge, component lifecycles, and Expo / CLI.",
+        "keywords": [
+          "react native",
+          "expo",
+          "javascript",
+          "typescript",
+          "jsx",
+          "native components",
+          "mobile development",
+          "flexbox"
+        ]
+      },
+      "Mobile UI & State Management": {
+        "weight": 0.16,
+        "description": "Architecting clean mobile state management using BLoC, Provider, Riverpod (Flutter) or Redux, Zustand (React Native).",
+        "keywords": [
+          "bloc",
+          "provider",
+          "riverpod",
+          "redux",
+          "zustand",
+          "state management",
+          "mobile ui",
+          "responsive mobile layout"
+        ]
+      },
+      "REST API & Backend Integration": {
+        "weight": 0.14,
+        "description": "Integrating mobile apps with RESTful endpoints, WebSockets, JSON parsing, error handling, token caching, and Firebase services.",
+        "keywords": [
+          "rest api",
+          "http",
+          "json",
+          "firebase",
+          "firestore",
+          "push notifications",
+          "websockets",
+          "authentication"
+        ]
+      },
+      "Device APIs & Native Modules": {
+        "weight": 0.1,
+        "description": "Interacting with native device features including Camera, Geolocation/GPS, Bluetooth, Biometrics, and push notifications.",
+        "keywords": [
+          "geolocation",
+          "camera",
+          "biometrics",
+          "push notifications",
+          "native modules",
+          "permissions",
+          "storage",
+          "sqlite"
+        ]
+      },
+      "App Store & Play Store Deployment": {
+        "weight": 0.08,
+        "description": "Preparing app bundles (.aab, .ipa), signing keys, managing Google Play Console, Apple App Store Connect, and TestFlight.",
+        "keywords": [
+          "app store",
+          "google play",
+          "testflight",
+          "app signing",
+          "app bundle",
+          "ipa",
+          "aab",
+          "store publishing"
+        ]
+      },
+      "Mobile Performance & Offline Storage": {
+        "weight": 0.08,
+        "description": "Optimizing memory footprints, rendering framerates (60/120 fps), caching, and local persistence with Hive, SQLite, or AsyncStore.",
+        "keywords": [
+          "offline storage",
+          "sqlite",
+          "hive",
+          "asyncstorage",
+          "performance optimization",
+          "caching",
+          "memory management"
+        ]
+      },
+      "Testing & Git": {
+        "weight": 0.06,
+        "description": "Automated widget, unit, and integration testing on mobile emulators/devices, plus collaborative Git workflows.",
+        "keywords": [
+          "git",
+          "github",
+          "widget testing",
+          "unit testing",
+          "integration testing",
+          "mobile testing",
+          "ci/cd for mobile"
+        ]
+      }
+    }
+  },
+  "Android Developer": {
+    "title": "Android Developer",
+    "description": "Specializes in building native Android mobile applications using Kotlin, Android SDK, Jetpack Compose, MVVM architecture, and modern Google libraries.",
+    "skills": {
+      "Kotlin & Modern Android": {
+        "weight": 0.22,
+        "description": "Deep proficiency in Kotlin programming, null safety, extension functions, data classes, lambdas, and Android SDK fundamentals.",
+        "keywords": [
+          "kotlin",
+          "android sdk",
+          "null safety",
+          "extension functions",
+          "lambdas",
+          "activities",
+          "fragments",
+          "android studio"
+        ]
+      },
+      "Jetpack Compose & UI": {
+        "weight": 0.18,
+        "description": "Building declarative modern Android UIs using Jetpack Compose, state hoisting, modifiers, themes, Material Design 3, and navigation.",
+        "keywords": [
+          "jetpack compose",
+          "compose",
+          "declarative ui",
+          "material design",
+          "modifiers",
+          "state hoisting",
+          "xml layouts",
+          "canvas"
+        ]
+      },
+      "Android Architecture (MVVM/MVI)": {
+        "weight": 0.15,
+        "description": "Implementing clean Android architectures using MVVM or MVI, ViewModels, LiveData, StateFlow, and Separation of Concerns.",
+        "keywords": [
+          "mvvm",
+          "mvi",
+          "viewmodel",
+          "livedata",
+          "stateflow",
+          "clean architecture",
+          "repository pattern",
+          "lifecycle"
+        ]
+      },
+      "Coroutines & Asynchronous Flow": {
+        "weight": 0.14,
+        "description": "Managing concurrency and background tasks using Kotlin Coroutines, dispatchers (IO/Main), structured concurrency, and Flow.",
+        "keywords": [
+          "coroutines",
+          "kotlin coroutines",
+          "flow",
+          "suspend functions",
+          "dispatchers",
+          "async",
+          "concurrency",
+          "background processing"
+        ]
+      },
+      "Room Database & Persistence": {
+        "weight": 0.1,
+        "description": "Local data storage using Room SQLite database, DAO interfaces, entities, migrations, and DataStore preferences.",
+        "keywords": [
+          "room",
+          "room database",
+          "sqlite",
+          "dao",
+          "entities",
+          "datastore",
+          "sharedpreferences",
+          "offline first"
+        ]
+      },
+      "Retrofit & REST APIs": {
+        "weight": 0.1,
+        "description": "Network communication using Retrofit, OkHttp, JSON serialization (Moshi/KotlinX Serialization), and interceptors.",
+        "keywords": [
+          "retrofit",
+          "okhttp",
+          "rest api",
+          "json",
+          "moshi",
+          "serialization",
+          "interceptors",
+          "network calls"
+        ]
+      },
+      "Dependency Injection (Hilt/Dagger)": {
+        "weight": 0.06,
+        "description": "Configuring compile-time dependency injection across Android components using Hilt and Dagger 2.",
+        "keywords": [
+          "hilt",
+          "dagger",
+          "dagger2",
+          "dependency injection",
+          "inversion of control",
+          "modules",
+          "scopes"
+        ]
+      },
+      "Google Play Deployment & Testing": {
+        "weight": 0.05,
+        "description": "Unit testing with JUnit, UI testing with Espresso/Compose Test, ProGuard/R8 obfuscation, and Google Play Console release.",
+        "keywords": [
+          "google play",
+          "espresso",
+          "junit",
+          "proguard",
+          "r8",
+          "app bundle",
+          "play console",
+          "unit testing"
+        ]
+      }
+    }
+  },
+  "iOS Developer": {
+    "title": "iOS Developer",
+    "description": "Designs and develops native iOS applications for iPhone and iPad using Swift, SwiftUI, UIKit, CoreData, and Apple's Human Interface Guidelines.",
+    "skills": {
+      "Swift Programming": {
+        "weight": 0.22,
+        "description": "Mastery of Swift programming, protocols, generics, optionals, memory safety (ARC), closures, and functional paradigms.",
+        "keywords": [
+          "swift",
+          "protocols",
+          "generics",
+          "optionals",
+          "arc",
+          "closures",
+          "structs",
+          "classes",
+          "enums",
+          "xcode"
+        ]
+      },
+      "SwiftUI & UIKit": {
+        "weight": 0.2,
+        "description": "Crafting declarative UIs with SwiftUI, combining UIKit view controllers, Auto Layout, Combine, and Apple Human Interface Guidelines.",
+        "keywords": [
+          "swiftui",
+          "uikit",
+          "autolayout",
+          "viewcontroller",
+          "combine",
+          "views",
+          "modifiers",
+          "human interface guidelines"
+        ]
+      },
+      "iOS Architecture (MVVM/VIPER)": {
+        "weight": 0.15,
+        "description": "Implementing robust mobile design patterns including MVVM, VIPER, Coordinator pattern, and Clean Architecture in iOS apps.",
+        "keywords": [
+          "mvvm",
+          "viper",
+          "coordinator",
+          "clean architecture",
+          "observableobject",
+          "published",
+          "design patterns"
+        ]
+      },
+      "CoreData & SwiftData": {
+        "weight": 0.12,
+        "description": "Local persistence and data modeling using CoreData, SwiftData, managed object contexts, migrations, and relationship mapping.",
+        "keywords": [
+          "coredata",
+          "swiftdata",
+          "persistence",
+          "sqlite",
+          "nsmanagedobject",
+          "migrations",
+          "offline storage"
+        ]
+      },
+      "Networking & URLSession": {
+        "weight": 0.12,
+        "description": "Making HTTP network requests with URLSession, Codable JSON decoding, async/await networking, and error handling.",
+        "keywords": [
+          "urlsession",
+          "codable",
+          "async/await",
+          "rest api",
+          "json decoding",
+          "http",
+          "alamofire",
+          "endpoints"
+        ]
+      },
+      "Concurrency (Async/Await & GCD)": {
+        "weight": 0.08,
+        "description": "Managing background operations, Grand Central Dispatch (GCD), Swift modern concurrency (actors, tasks), and thread safety.",
+        "keywords": [
+          "gcd",
+          "grand central dispatch",
+          "actors",
+          "tasks",
+          "concurrency",
+          "multithreading",
+          "main thread"
+        ]
+      },
+      "App Store Guidelines & TestFlight": {
+        "weight": 0.06,
+        "description": "Code signing, provisioning profiles, Apple Developer portal, TestFlight beta distribution, and App Store review guidelines.",
+        "keywords": [
+          "app store",
+          "testflight",
+          "code signing",
+          "provisioning profiles",
+          "app store connect",
+          "app distribution"
+        ]
+      },
+      "Unit & UI Testing with XCTest": {
+        "weight": 0.05,
+        "description": "Writing automated unit and UI interaction tests using XCTest framework, performance tests, and mock network services.",
+        "keywords": [
+          "xctest",
+          "unit testing",
+          "ui testing",
+          "mocking",
+          "test coverage",
+          "debugging",
+          "instruments"
+        ]
+      }
+    }
+  },
+  "QA Automation Engineer / SDET": {
+    "title": "QA Automation Engineer / SDET",
+    "description": "Designs, develops, and executes automated testing frameworks for web, mobile, and APIs to ensure continuous product quality and reliability.",
+    "skills": {
+      "Test Automation Frameworks (Selenium/Cypress/Playwright)": {
+        "weight": 0.22,
+        "description": "Authoring robust end-to-end automation frameworks using Selenium WebDriver, Cypress, or Playwright using the Page Object Model (POM).",
+        "keywords": [
+          "selenium",
+          "cypress",
+          "playwright",
+          "page object model",
+          "pom",
+          "webdriver",
+          "e2e testing",
+          "automated testing",
+          "locators",
+          "xpath"
+        ]
+      },
+      "Programming (Python/Java/JavaScript)": {
+        "weight": 0.18,
+        "description": "Writing clean, maintainable automation scripts in Python, Java, or JavaScript/TypeScript with object-oriented principles.",
+        "keywords": [
+          "python",
+          "java",
+          "javascript",
+          "typescript",
+          "oop",
+          "scripting",
+          "clean code",
+          "functions",
+          "data structures"
+        ]
+      },
+      "API Testing & Postman": {
+        "weight": 0.16,
+        "description": "Automating API test suites, status code assertions, JSON schema validations, and regression suites using Postman, RestAssured, or PyTest.",
+        "keywords": [
+          "api testing",
+          "postman",
+          "restassured",
+          "requests",
+          "json schema",
+          "http",
+          "status codes",
+          "endpoints",
+          "regression"
+        ]
+      },
+      "CI/CD Test Integration": {
+        "weight": 0.12,
+        "description": "Integrating automated test suites into CI/CD pipelines (GitHub Actions, Jenkins, GitLab CI) for pull request and regression testing.",
+        "keywords": [
+          "ci/cd",
+          "jenkins",
+          "github actions",
+          "gitlab ci",
+          "test reporting",
+          "allure",
+          "headless testing",
+          "automated triggers"
+        ]
+      },
+      "Test Case Design & Strategies": {
+        "weight": 0.12,
+        "description": "Developing test strategies, equivalence partitioning, boundary value analysis, risk-based testing, and test coverage matrices.",
+        "keywords": [
+          "test case design",
+          "test strategy",
+          "boundary value analysis",
+          "equivalence partitioning",
+          "test plan",
+          "regression testing"
+        ]
+      },
+      "Performance & Load Testing (JMeter/K6)": {
+        "weight": 0.08,
+        "description": "Evaluating system throughput, stress testing, and concurrency bottlenecks using Apache JMeter or k6 load testing tools.",
+        "keywords": [
+          "jmeter",
+          "k6",
+          "load testing",
+          "performance testing",
+          "stress testing",
+          "throughput",
+          "concurrency",
+          "latency"
+        ]
+      },
+      "Bug Tracking & JIRA": {
+        "weight": 0.06,
+        "description": "Logging detailed defect reports, reproduction steps, severity vs priority triage, and defect lifecycles in JIRA.",
+        "keywords": [
+          "jira",
+          "bug tracking",
+          "defect lifecycle",
+          "severity",
+          "priority",
+          "reproduction steps",
+          "testrail"
+        ]
+      },
+      "SQL & Database Verification": {
+        "weight": 0.06,
+        "description": "Validating back-end data persistence, writing SQL queries to inspect table state, data consistency, and database transactions.",
+        "keywords": [
+          "sql",
+          "database testing",
+          "queries",
+          "data validation",
+          "joins",
+          "backend testing",
+          "verification"
+        ]
+      }
+    }
+  },
+  "Manual QA / Software Tester": {
+    "title": "Manual QA / Software Tester",
+    "description": "Ensures application excellence through rigorous manual testing, test case authoring, exploratory testing, bug reporting, and functional verification.",
+    "skills": {
+      "Manual Testing & Test Execution": {
+        "weight": 0.22,
+        "description": "Executing manual test suites across web and mobile platforms, cross-browser compatibility testing, and exploratory testing.",
+        "keywords": [
+          "manual testing",
+          "test execution",
+          "exploratory testing",
+          "cross-browser",
+          "smoke testing",
+          "sanity testing",
+          "gui testing"
+        ]
+      },
+      "Test Planning & Documentation": {
+        "weight": 0.2,
+        "description": "Authoring comprehensive test plans, detailed test cases, acceptance criteria matrices, and test summary reports.",
+        "keywords": [
+          "test plan",
+          "test cases",
+          "test scenarios",
+          "acceptance criteria",
+          "test documentation",
+          "rts",
+          "test summary report"
+        ]
+      },
+      "Defect Tracking & JIRA": {
+        "weight": 0.16,
+        "description": "Logging clear, reproducible bug tickets, capturing logs/screenshots, bug triage, and managing defect lifecycles in JIRA.",
+        "keywords": [
+          "jira",
+          "bug reporting",
+          "defect lifecycle",
+          "reproducible steps",
+          "bug tracking",
+          "severity",
+          "priority",
+          "triage"
+        ]
+      },
+      "Functional & Regression Testing": {
+        "weight": 0.14,
+        "description": "Conducting deep functional validation, end-to-end user workflows, edge case exploration, and comprehensive regression rounds.",
+        "keywords": [
+          "functional testing",
+          "regression testing",
+          "end-to-end",
+          "edge cases",
+          "system testing",
+          "integration testing"
+        ]
+      },
+      "API Testing Basics (Postman)": {
+        "weight": 0.1,
+        "description": "Sending HTTP GET/POST/PUT requests, verifying response payloads, HTTP status codes, and inspecting headers in Postman.",
+        "keywords": [
+          "postman",
+          "api testing",
+          "http status codes",
+          "json",
+          "request headers",
+          "payload verification",
+          "crud"
+        ]
+      },
+      "SDLC & Agile Methodologies": {
+        "weight": 0.08,
+        "description": "Understanding Software Development Life Cycle (SDLC), STLC phases, sprint ceremonies, standups, and Agile methodologies.",
+        "keywords": [
+          "sdlc",
+          "stlc",
+          "agile",
+          "scrum",
+          "sprint",
+          "standup",
+          "qa process",
+          "waterfall vs agile"
+        ]
+      },
+      "SQL & Data Verification": {
+        "weight": 0.05,
+        "description": "Writing relational database queries to verify backend records, updates, deletions, and transactional integrity.",
+        "keywords": [
+          "sql",
+          "database verification",
+          "queries",
+          "select",
+          "where",
+          "joins",
+          "data checks"
+        ]
+      },
+      "User Acceptance Testing (UAT)": {
+        "weight": 0.05,
+        "description": "Coordinating user acceptance testing sessions, validating business requirements with stakeholders, and release sign-off.",
+        "keywords": [
+          "uat",
+          "user acceptance testing",
+          "stakeholder testing",
+          "release sign-off",
+          "business requirements"
+        ]
+      }
+    }
+  },
+  "UI/UX Designer": {
+    "title": "UI/UX Designer",
+    "description": "Creates intuitive, user-centered digital experiences, wireframes, high-fidelity prototypes, and cohesive design systems using modern tools like Figma.",
+    "skills": {
+      "Figma & Prototyping": {
+        "weight": 0.22,
+        "description": "Expertise in Figma, auto-layout, interactive component variants, vector graphics, micro-interactions, and clickable prototypes.",
+        "keywords": [
+          "figma",
+          "prototyping",
+          "auto layout",
+          "components",
+          "variants",
+          "wireframes",
+          "mockups",
+          "figma tokens",
+          "ui design"
+        ]
+      },
+      "User Research & Persona Design": {
+        "weight": 0.18,
+        "description": "Conducting user interviews, surveys, empathy mapping, competitive analysis, and crafting evidence-based user personas.",
+        "keywords": [
+          "user research",
+          "user interviews",
+          "personas",
+          "empathy map",
+          "customer journey",
+          "surveys",
+          "competitive analysis"
+        ]
+      },
+      "Wireframing & Information Architecture": {
+        "weight": 0.16,
+        "description": "Designing low-to-high fidelity wireframes, user flow diagrams, sitemaps, and intuitive information architecture.",
+        "keywords": [
+          "wireframing",
+          "information architecture",
+          "user flows",
+          "sitemaps",
+          "lo-fi wireframes",
+          "hi-fi wireframes",
+          "ux flow"
+        ]
+      },
+      "Design Systems & Component Libraries": {
+        "weight": 0.14,
+        "description": "Building scalable design systems, typography hierarchies, color palettes, spacing rules, and reusable component libraries.",
+        "keywords": [
+          "design systems",
+          "component library",
+          "typography",
+          "color palette",
+          "design tokens",
+          "atomic design",
+          "consistency"
+        ]
+      },
+      "Usability Testing & Heuristics": {
+        "weight": 0.12,
+        "description": "Conducting usability testing sessions, Nielsen Norman heuristic evaluations, accessibility audits, and A/B design iterations.",
+        "keywords": [
+          "usability testing",
+          "heuristics",
+          "nielsen norman",
+          "accessibility",
+          "a11y",
+          "user testing",
+          "feedback synthesis"
+        ]
+      },
+      "Responsive & Mobile-First Design": {
+        "weight": 0.08,
+        "description": "Designing adaptable layouts for mobile, tablet, and desktop screens adhering to platform guidelines (iOS HIG, Material Design).",
+        "keywords": [
+          "responsive design",
+          "mobile-first",
+          "material design",
+          "ios hig",
+          "adaptive layout",
+          "breakpoints"
+        ]
+      },
+      "Interaction Design & Micro-animations": {
+        "weight": 0.05,
+        "description": "Crafting engaging UI micro-animations, transitions, hover states, and interactive feedback mechanisms.",
+        "keywords": [
+          "interaction design",
+          "micro-interactions",
+          "animations",
+          "transitions",
+          "smart animate",
+          "delight"
+        ]
+      },
+      "Design-to-Development Handoff": {
+        "weight": 0.05,
+        "description": "Collaborating with front-end engineers, documenting design specs, exporting assets, and conducting design QA reviews.",
+        "keywords": [
+          "design handoff",
+          "developer handoff",
+          "zeplin",
+          "design qa",
+          "specifications",
+          "asset export"
+        ]
+      }
+    }
+  },
+  "Cloud Solutions Architect": {
+    "title": "Cloud Solutions Architect",
+    "description": "Designs scalable, resilient, secure, and cost-optimized enterprise cloud architectures across AWS, Azure, or Google Cloud Platform.",
+    "skills": {
+      "Cloud Architecture Design (AWS/Azure/GCP)": {
+        "weight": 0.22,
+        "description": "Designing multi-tier, highly available, and fault-tolerant cloud solutions aligned with Well-Architected Framework principles.",
+        "keywords": [
+          "cloud architecture",
+          "aws",
+          "azure",
+          "gcp",
+          "well-architected",
+          "system design",
+          "cloud solutions",
+          "enterprise architecture"
+        ]
+      },
+      "High Availability & Fault Tolerance": {
+        "weight": 0.16,
+        "description": "Architecting resilient infrastructures across multi-region and multi-AZ deployments, auto-scaling, and load balancing.",
+        "keywords": [
+          "high availability",
+          "fault tolerance",
+          "multi-az",
+          "multi-region",
+          "auto-scaling",
+          "load balancer",
+          "alb",
+          "failover"
+        ]
+      },
+      "Cloud Networking & Security": {
+        "weight": 0.15,
+        "description": "Designing VPC topologies, CIDR blocks, subnets, transit gateways, direct connect, VPNs, WAF, and zero-trust security controls.",
+        "keywords": [
+          "vpc",
+          "subnets",
+          "cloud networking",
+          "waf",
+          "security groups",
+          "iam",
+          "zero trust",
+          "transit gateway",
+          "firewall"
+        ]
+      },
+      "Cost Optimization & FinOps": {
+        "weight": 0.12,
+        "description": "Analyzing cloud spend, implementing reserved instances, spot instances, storage tiering, and cloud financial governance (FinOps).",
+        "keywords": [
+          "cost optimization",
+          "finops",
+          "reserved instances",
+          "savings plans",
+          "billing",
+          "storage tiering",
+          "resource tagging"
+        ]
+      },
+      "Disaster Recovery & Business Continuity": {
+        "weight": 0.12,
+        "description": "Developing robust disaster recovery strategies (RPO, RTO, Pilot Light, Warm Standby) and automated backup/restore policies.",
+        "keywords": [
+          "disaster recovery",
+          "rpo",
+          "rto",
+          "business continuity",
+          "backup and restore",
+          "pilot light",
+          "warm standby"
+        ]
+      },
+      "Microservices & Containers": {
+        "weight": 0.1,
+        "description": "Architecting containerized workloads using Kubernetes (EKS/GKE/AKS), container registries, serverless compute, and service mesh.",
+        "keywords": [
+          "kubernetes",
+          "eks",
+          "gke",
+          "docker",
+          "serverless",
+          "lambda",
+          "ecs",
+          "service mesh",
+          "microservices"
+        ]
+      },
+      "Infrastructure as Code (Terraform)": {
+        "weight": 0.08,
+        "description": "Enforcing automated infrastructure provisioning using Terraform or CloudFormation modules, versioned state, and CI/CD.",
+        "keywords": [
+          "terraform",
+          "iac",
+          "cloudformation",
+          "infrastructure as code",
+          "automation",
+          "modules",
+          "state management"
+        ]
+      },
+      "Executive Stakeholder Advisory": {
+        "weight": 0.05,
+        "description": "Authoring technical architecture decision records (ADRs), presenting to executive stakeholders, and managing risk.",
+        "keywords": [
+          "stakeholder management",
+          "adr",
+          "architecture review",
+          "technical leadership",
+          "risk assessment",
+          "executive communication"
+        ]
+      }
+    }
+  },
+  "Site Reliability Engineer (SRE)": {
+    "title": "Site Reliability Engineer (SRE)",
+    "description": "Applies software engineering principles to infrastructure and operations problems, guaranteeing maximum system uptime, scalability, and resilience.",
+    "skills": {
+      "SLOs, SLAs & Error Budgets": {
+        "weight": 0.18,
+        "description": "Defining, measuring, and alerting on Service Level Indicators (SLIs), Service Level Objectives (SLOs), and managing error budgets.",
+        "keywords": [
+          "slo",
+          "sla",
+          "sli",
+          "error budget",
+          "burn rate",
+          "reliability metrics",
+          "service level objectives"
+        ]
+      },
+      "Incident Response & On-Call": {
+        "weight": 0.16,
+        "description": "Leading production incident triage, high-severity incident commander duties, root cause investigation, and runbook execution.",
+        "keywords": [
+          "incident response",
+          "incident management",
+          "on-call",
+          "pagerduty",
+          "runbooks",
+          "triage",
+          "outage mitigation"
+        ]
+      },
+      "Monitoring & Observability (Prometheus/Grafana)": {
+        "weight": 0.16,
+        "description": "Instrumenting systems with Prometheus, Grafana, OpenTelemetry, distributed tracing, and designing actionable alert thresholds.",
+        "keywords": [
+          "prometheus",
+          "grafana",
+          "opentelemetry",
+          "observability",
+          "distributed tracing",
+          "alerting",
+          "metrics",
+          "logs"
+        ]
+      },
+      "Kubernetes & Container Operations": {
+        "weight": 0.14,
+        "description": "Managing production Kubernetes clusters, Horizontal Pod Autoscaling (HPA), ingress controllers, and pod scheduling.",
+        "keywords": [
+          "kubernetes",
+          "k8s",
+          "docker",
+          "helm",
+          "hpa",
+          "ingress",
+          "cluster management",
+          "pods",
+          "deployments"
+        ]
+      },
+      "Automation & Scripting (Python/Go/Bash)": {
+        "weight": 0.14,
+        "description": "Automating manual toil, writing maintenance tools, self-healing scripts, and API integrations in Python, Go, or Bash.",
+        "keywords": [
+          "python",
+          "golang",
+          "bash",
+          "toil reduction",
+          "automation",
+          "scripting",
+          "cron",
+          "cli tools"
+        ]
+      },
+      "Chaos Engineering & Resilience": {
+        "weight": 0.08,
+        "description": "Injecting controlled failures using Chaos Mesh or Gremlin, validating graceful degradation and self-healing mechanisms.",
+        "keywords": [
+          "chaos engineering",
+          "fault injection",
+          "resilience",
+          "gremlin",
+          "chaos mesh",
+          "self-healing",
+          "graceful degradation"
+        ]
+      },
+      "Cloud Infrastructure & Terraform": {
+        "weight": 0.08,
+        "description": "Maintaining scalable cloud infrastructure across AWS/GCP, VPC configurations, and managing declarative Terraform code.",
+        "keywords": [
+          "terraform",
+          "aws",
+          "gcp",
+          "iac",
+          "cloud infrastructure",
+          "vpc",
+          "security groups",
+          "state management"
+        ]
+      },
+      "Post-Mortems & Continuous Reliability": {
+        "weight": 0.06,
+        "description": "Facilitating blameless post-mortem investigations, documenting root causes, and tracking preventative action items.",
+        "keywords": [
+          "post-mortem",
+          "blameless",
+          "root cause analysis",
+          "rca",
+          "action items",
+          "preventative engineering"
+        ]
+      }
+    }
+  },
+  "Database Administrator (DBA)": {
+    "title": "Database Administrator (DBA)",
+    "description": "Manages, optimizes, secures, and maintains organizational database management systems, ensuring high performance, availability, and data integrity.",
+    "skills": {
+      "Database Administration (PostgreSQL/MySQL/Oracle)": {
+        "weight": 0.22,
+        "description": "Installing, configuring, upgrading, and managing enterprise relational databases (PostgreSQL, MySQL, Oracle, or SQL Server).",
+        "keywords": [
+          "dba",
+          "database administrator",
+          "postgresql",
+          "mysql",
+          "oracle",
+          "sql server",
+          "installation",
+          "configuration",
+          "upgrades"
+        ]
+      },
+      "SQL Performance Tuning & Indexing": {
+        "weight": 0.2,
+        "description": "Analyzing execution plans (EXPLAIN), optimizing slow queries, managing B-Tree/GIN/Hash indexes, and vacuuming/analyzing tables.",
+        "keywords": [
+          "performance tuning",
+          "explain plan",
+          "query optimization",
+          "indexing",
+          "b-tree",
+          "slow query log",
+          "vacuum",
+          "profiling"
+        ]
+      },
+      "Backup, Recovery & Replication": {
+        "weight": 0.16,
+        "description": "Implementing point-in-time recovery (PITR), automated backup schedules, physical/logical backups, and write-ahead logging (WAL).",
+        "keywords": [
+          "backup and recovery",
+          "pitr",
+          "pg_dump",
+          "mysqldump",
+          "wal",
+          "replication",
+          "disaster recovery",
+          "restore"
+        ]
+      },
+      "High Availability & Clustering": {
+        "weight": 0.14,
+        "description": "Designing master-slave/master-master replication, Patroni/pgpool clustering, read-replicas, and automated failover.",
+        "keywords": [
+          "high availability",
+          "clustering",
+          "patroni",
+          "read replicas",
+          "failover",
+          "replication",
+          "load balancing"
+        ]
+      },
+      "Security, Access Control & Compliance": {
+        "weight": 0.1,
+        "description": "Managing user roles, permissions, encryption at rest (TDE) and in transit (SSL/TLS), and audit logging compliance.",
+        "keywords": [
+          "database security",
+          "rbac",
+          "user permissions",
+          "encryption",
+          "tde",
+          "audit logging",
+          "compliance",
+          "ssl/tls"
+        ]
+      },
+      "Database Migration & Schema Evolution": {
+        "weight": 0.08,
+        "description": "Performing large-scale database migrations, schema refactoring with zero downtime, and partitioning huge tables.",
+        "keywords": [
+          "database migration",
+          "schema design",
+          "partitioning",
+          "sharding",
+          "zero downtime",
+          "flyway",
+          "liquibase"
+        ]
+      },
+      "Capacity Planning & Resource Monitoring": {
+        "weight": 0.05,
+        "description": "Monitoring disk I/O, memory buffer pools, CPU utilization, connection pooling (PgBouncer), and growth forecasting.",
+        "keywords": [
+          "connection pooling",
+          "pgbouncer",
+          "buffer cache",
+          "disk i/o",
+          "monitoring",
+          "capacity planning"
+        ]
+      },
+      "Automated Scripting & Maintenance": {
+        "weight": 0.05,
+        "description": "Writing automated shell and Python scripts for routine database maintenance, health checks, alerts, and index defragmentation.",
+        "keywords": [
+          "bash",
+          "python scripting",
+          "automation",
+          "cron",
+          "maintenance",
+          "health check scripts"
+        ]
+      }
+    }
+  },
+  "Business Analyst (IT / Tech)": {
+    "title": "Business Analyst (IT / Tech)",
+    "description": "Bridges the gap between business stakeholders and technology teams by analyzing processes, gathering requirements, and delivering actionable solutions.",
+    "skills": {
+      "Requirements Elicitation & BRDs": {
+        "weight": 0.22,
+        "description": "Conducting stakeholder interviews, requirements workshops, authoring Business Requirement Documents (BRD), and functional specs.",
+        "keywords": [
+          "business analysis",
+          "requirements gathering",
+          "brd",
+          "functional requirements",
+          "frd",
+          "elicitation",
+          "gap analysis"
+        ]
+      },
+      "User Stories & Acceptance Criteria": {
+        "weight": 0.18,
+        "description": "Decomposing business needs into detailed Agile user stories, INVEST criteria, acceptance criteria, and edge cases.",
+        "keywords": [
+          "user stories",
+          "acceptance criteria",
+          "invest",
+          "epics",
+          "product backlog",
+          "use cases",
+          "scenarios"
+        ]
+      },
+      "Process Modeling & Flowcharts (BPMN)": {
+        "weight": 0.15,
+        "description": "Mapping current-state (As-Is) and future-state (To-Be) business processes using BPMN diagrams, flowcharts, and Lucidchart/Visio.",
+        "keywords": [
+          "bpmn",
+          "process mapping",
+          "flowcharts",
+          "as-is",
+          "to-be",
+          "swimlane diagrams",
+          "lucidchart",
+          "visio"
+        ]
+      },
+      "Agile & Scrum Methodologies": {
+        "weight": 0.14,
+        "description": "Active participation in Scrum ceremonies, sprint planning, backlog grooming, retrospective reviews, and sprint delivery.",
+        "keywords": [
+          "agile",
+          "scrum",
+          "sprint planning",
+          "backlog grooming",
+          "retrospective",
+          "standup",
+          "kanban"
+        ]
+      },
+      "Data Analysis & SQL": {
+        "weight": 0.12,
+        "description": "Writing SQL queries to extract data, validate business assumptions, analyze trends, and build operational KPI reports.",
+        "keywords": [
+          "sql",
+          "data analysis",
+          "queries",
+          "reporting",
+          "excel",
+          "pivot tables",
+          "kpis",
+          "metrics"
+        ]
+      },
+      "Stakeholder Engagement & Workshops": {
+        "weight": 0.1,
+        "description": "Facilitating cross-functional stakeholder alignment, managing scope creep, executive presentations, and conflict resolution.",
+        "keywords": [
+          "stakeholder management",
+          "communication",
+          "presentations",
+          "workshop facilitation",
+          "scope management"
+        ]
+      },
+      "UAT & Solution Validation": {
+        "weight": 0.05,
+        "description": "Coordinating User Acceptance Testing (UAT), authoring test scenarios, validating feature delivery against requirements, and sign-offs.",
+        "keywords": [
+          "uat",
+          "user acceptance testing",
+          "test scenarios",
+          "solution validation",
+          "sign-off"
+        ]
+      },
+      "JIRA & Confluence Administration": {
+        "weight": 0.04,
+        "description": "Managing requirements, documentation repositories, traceability matrices, and ticket workflows in JIRA and Confluence.",
+        "keywords": [
+          "jira",
+          "confluence",
+          "traceability matrix",
+          "documentation",
+          "backlog management"
+        ]
+      }
+    }
+  },
+  "Scrum Master / Agile Delivery Manager": {
+    "title": "Scrum Master / Agile Delivery Manager",
+    "description": "Facilitates high-performing agile engineering teams, removes impediments, coaches teams in Scrum and Kanban, and optimizes delivery velocity.",
+    "skills": {
+      "Scrum Framework & Agile Ceremonies": {
+        "weight": 0.24,
+        "description": "Facilitating core Scrum ceremonies: Daily Standup, Sprint Planning, Sprint Review, and Retrospectives, adhering to Agile principles.",
+        "keywords": [
+          "scrum",
+          "agile",
+          "standup",
+          "sprint planning",
+          "sprint review",
+          "retrospective",
+          "scrum master",
+          "ceremonies"
+        ]
+      },
+      "Sprint Planning & Backlog Refinement": {
+        "weight": 0.18,
+        "description": "Partnering with Product Owners to refine backlogs, estimate story points (Planning Poker), and define achievable sprint commitments.",
+        "keywords": [
+          "sprint planning",
+          "backlog refinement",
+          "story points",
+          "planning poker",
+          "commitment",
+          "product owner",
+          "estimation"
+        ]
+      },
+      "Impediment Removal & Servant Leadership": {
+        "weight": 0.16,
+        "description": "Shielding development teams from distractions, proactively unblocking cross-team dependencies, and practicing servant leadership.",
+        "keywords": [
+          "impediment removal",
+          "unblocking",
+          "servant leadership",
+          "dependency management",
+          "team enablement",
+          "coaching"
+        ]
+      },
+      "Agile Metrics (Velocity & Burndown)": {
+        "weight": 0.14,
+        "description": "Tracking, analyzing, and improving sprint velocity, burndown/burnup charts, cycle time, and lead time to ensure predictable delivery.",
+        "keywords": [
+          "velocity",
+          "burndown chart",
+          "burnup chart",
+          "cycle time",
+          "lead time",
+          "metrics",
+          "predictability",
+          "throughput"
+        ]
+      },
+      "JIRA & Agile Tooling Mastery": {
+        "weight": 0.1,
+        "description": "Configuring JIRA boards (Scrum and Kanban), managing workflow states, permissions, filters, and custom dashboards.",
+        "keywords": [
+          "jira",
+          "kanban",
+          "scrum board",
+          "confluence",
+          "jira filters",
+          "dashboards",
+          "workflows"
+        ]
+      },
+      "Team Coaching & Conflict Resolution": {
+        "weight": 0.08,
+        "description": "Coaching engineering teams toward self-organization, fostering psychological safety, and mediating team disagreements.",
+        "keywords": [
+          "coaching",
+          "conflict resolution",
+          "psychological safety",
+          "self-organization",
+          "team dynamics",
+          "mentoring"
+        ]
+      },
+      "Continuous Improvement & Retrospectives": {
+        "weight": 0.06,
+        "description": "Driving actionable continuous improvement initiatives (Kaizen) from sprint retrospectives to enhance engineering velocity and morale.",
+        "keywords": [
+          "continuous improvement",
+          "kaizen",
+          "retrospectives",
+          "action items",
+          "process improvement",
+          "engineering culture"
+        ]
+      },
+      "Stakeholder Reporting & Alignment": {
+        "weight": 0.04,
+        "description": "Communicating team progress, release timelines, impediment escalation, and delivery health to engineering leadership.",
+        "keywords": [
+          "stakeholder communication",
+          "status reporting",
+          "release planning",
+          "leadership alignment",
+          "transparency"
+        ]
+      }
+    }
+  }
+}
